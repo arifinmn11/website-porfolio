@@ -1,3 +1,6 @@
+# Link for preview
+https://focused-wiles-b6e997.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
