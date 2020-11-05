@@ -74,7 +74,7 @@ const Footer = () => {
                 <FaFacebook />
               </SocialIconLink>
               <SocialIconLink
-                href="//www.instagram/_arifinmn"
+                href="//www.instagram.com/_arifinmn"
                 aria-label="Instagram"
                 target="_blank"
               >
